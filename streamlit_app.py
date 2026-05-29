@@ -1,11 +1,3 @@
-kalkulator_lab/
-│
-├── app.py               # Script utama (Navigasi)
-└── views/
-    ├── Kalkulator.py    # Script kalkulator kamu
-    └── Panduan.py       # Script info tambahan
-    mport streamlit as st
-
 # =========================================
 # CONFIG PAGE (Harus ada di file utama)
 # =========================================
